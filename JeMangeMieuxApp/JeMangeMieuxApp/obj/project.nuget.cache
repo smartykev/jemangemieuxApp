@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "4H1L1NoROXbCh4iU1P+ePi8IFJFpBcd8KqXeg26LuSRbFuy9AOp7JV1Q9lUDwka2zUR1ZdEi2ZDYmK62ByPkyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\guill\\source\\repos\\JeMangeMieuxApp\\JeMangeMieuxApp\\JeMangeMieuxApp\\JeMangeMieuxApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guill\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\guill\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\guill\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\guill\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\guill\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
